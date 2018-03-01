@@ -447,6 +447,7 @@
 				INFOPLIST_FILE = SampleTouchSlider/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.polosoftech.PolosoftDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "32b06311-bbf0-4f4c-9000-a20f3bf513b9";
 				PROVISIONING_PROFILE_SPECIFIER = polosoft_Dev_13_12_2017;
@@ -464,6 +465,7 @@
 				INFOPLIST_FILE = SampleTouchSlider/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.polosoftech.PolosoftDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "32b06311-bbf0-4f4c-9000-a20f3bf513b9";
 				PROVISIONING_PROFILE_SPECIFIER = polosoft_Dev_13_12_2017;

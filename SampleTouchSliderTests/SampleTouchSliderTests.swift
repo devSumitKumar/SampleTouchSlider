@@ -2,7 +2,7 @@
 //  SampleTouchSliderTests.swift
 //  SampleTouchSliderTests
 //
-//  Created by Polosoft on 08/02/18.
+//  Created by Sumit Kumar Khamari on 08/02/18.
 //  Copyright © 2018 Sumit Kumar Khamari. All rights reserved.
 //
 
