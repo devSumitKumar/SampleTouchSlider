@@ -38,6 +38,7 @@
 /* Begin PBXFileReference section */
 		010DD215202D831F004B5D13 /* slide_btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slide_btn.png; sourceTree = "<group>"; };
 		010DD218202DA74B004B5D13 /* Slide_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Slide_bar.png; sourceTree = "<group>"; };
+		01780C4C204E7BA200CF5D9D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		01791548202C69040097BCA4 /* SampleTouchSlider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleTouchSlider.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0179154B202C69040097BCA4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0179154D202C69040097BCA4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 		0179153F202C69030097BCA4 = {
 			isa = PBXGroup;
 			children = (
+				01780C4C204E7BA200CF5D9D /* README.md */,
 				0179154A202C69040097BCA4 /* SampleTouchSlider */,
 				0179155F202C69040097BCA4 /* SampleTouchSliderTests */,
 				0179156A202C69040097BCA4 /* SampleTouchSliderUITests */,
